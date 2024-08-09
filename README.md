@@ -20,30 +20,36 @@ By analyzing hotel booking data, we aim to address these challenges and provide 
 Data Description:
 The dataset contains information about hotel bookings, including details such as:
 
+
      - Hotel: Identifier for the hotel.
      - Is_canceled: Whether the booking was canceled (1) or not (0).
      - Lead_time: Number of days between booking and arrival.
      - Arrival_date: Date of arrival (broken down into year, month, week number, and day of month).   
      - Stays_in_weekend_nights: Number of weekend nights booked.
      - Stays_in_week_nights: Number of weeknights booked.
-Adults: Number of adults in the booking.
-Children: Number of children in the booking.
-Babies: Number of babies in the booking.
-Meal: Type of meal booked.
-Country: Country of origin.
-Market_segment: Market segment.   
-Distribution_channel: Booking distribution channel.
-Is_repeated_guest: Whether the guest is a repeated guest.
-Previous_cancellations: Number of previous cancellations.   
-Previous_bookings_not_canceled: Number of previous bookings not canceled.
-Reserved_room_type: Reserved room type.
-Assigned_room_type: Assigned room type.
-Booking_changes: Number of booking changes.   
-Deposit_type: Deposit type.
-Agent: ID of the travel agent.
-Company: ID of the company.
-Total_of_special_requests: Total number of special requests.
-Required_car_parking: Whether car parking was required.
+     - Adults: Number of adults in the booking.
+     - Children: Number of children in the booking.
+     - Babies: Number of babies in the booking.
+     - Meal: Type of meal booked.
+     - Country: Country of origin.
+     - Market_segment: Market segment.   
+     - Distribution_channel: Booking distribution channel.
+     - Is_repeated_guest: Whether the guest is a repeated guest.
+     - Previous_cancellations: Number of previous cancellations.   
+     - Previous_bookings_not_canceled: Number of previous bookings not canceled.
+     - Reserved_room_type: Reserved room type.
+     - Assigned_room_type: Assigned room type.
+     - Booking_changes: Number of booking changes.   
+     - Deposit_type: Deposit type.
+     - Agent: ID of the travel agent.
+     - Company: ID of the company.
+     - days_in_waiting_list :No of days waiting
+     - customer_type:Booking type
+     - adr:Total Room Revenue / Number of Rooms Sold
+     - Total_of_special_requests: Total number of special requests.
+     - Required_car_parking: Whether car parking was required.
+     - reservation_status:Present reservation status of bookings
+     - reservation_status_date:Date of booking or cancellation
 
 Conclusion
 
