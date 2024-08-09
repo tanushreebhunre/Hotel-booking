@@ -42,15 +42,13 @@ Booking_changes: Number of booking changes.  
 Deposit_type: Deposit type.
 Agent: ID of the travel agent.
 Company: ID of the company.
+Total_of_special_requests: Total number of special requests.
+Required_car_parking: Whether car parking was required.
 
 Conclusion
+
 By conducting a comprehensive analysis of hotel booking data using Python, this project provides valuable insights into customer behavior, booking patterns, and operational performance. The findings offer actionable recommendations to optimize revenue, enhance customer satisfaction, and improve overall hotel management.
 
 Through detailed exploration and statistical analysis, we have identified key factors influencing cancellation rates, customer segmentation, pricing strategies, and operational efficiency. These insights equip hotel management with the tools to make data-driven decisions and implement targeted strategies.
 
 Ultimately, this analysis demonstrates the potential of data-driven approaches and Python programming to drive business growth and success in the hotel industry.
-Days_in_waiting_list: Number of days in waiting list.
-Customer_type: Type of customer.
-ADR: Average Daily Rate.
-Total_of_special_requests: Total number of special requests.
-Required_car_parking: Whether car parking was required.
