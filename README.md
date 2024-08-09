@@ -6,7 +6,6 @@ This project aims to analyze hotel booking data to uncover insights into custome
 
 Business Problem
 The hotel industry faces several challenges, including:
-
 1)High cancellation rates: Understanding the factors influencing cancellations can help implement strategies to reduce them.
 
 2)Optimizing pricing: Determining the optimal pricing strategy to maximize revenue while maintaining occupancy.
