@@ -8,9 +8,13 @@ Business Problem
 The hotel industry faces several challenges, including:
 
 1)High cancellation rates: Understanding the factors influencing cancellations can help implement strategies to reduce them.
+
 2)Optimizing pricing: Determining the optimal pricing strategy to maximize revenue while maintaining occupancy.
+
 3)Understanding customer behavior: Identifying customer preferences and segmentation to tailor services and marketing efforts.
+
 4)Improving operational efficiency: Analyzing booking patterns to optimize staffing and resource allocation.
+
 By analyzing hotel booking data, we aim to address these challenges and provide actionable insights to hotel management.
 
 Data Description:
