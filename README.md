@@ -6,6 +6,7 @@ This project aims to analyze hotel booking data to uncover insights into custome
 
 Business Problem
 The hotel industry faces several challenges, including:
+
 1)High cancellation rates: Understanding the factors influencing cancellations can help implement strategies to reduce them.
 
 2)Optimizing pricing: Determining the optimal pricing strategy to maximize revenue while maintaining occupancy.
@@ -19,12 +20,12 @@ By analyzing hotel booking data, we aim to address these challenges and provide 
 Data Description:
 The dataset contains information about hotel bookings, including details such as:
 
-Hotel: Identifier for the hotel.
-Is_canceled: Whether the booking was canceled (1) or not (0).
-Lead_time: Number of days between booking and arrival.
-Arrival_date: Date of arrival (broken down into year, month, week number, and day of month).   
-Stays_in_weekend_nights: Number of weekend nights booked.
-Stays_in_week_nights: Number of weeknights booked.
+     - Hotel: Identifier for the hotel.
+     - Is_canceled: Whether the booking was canceled (1) or not (0).
+     - Lead_time: Number of days between booking and arrival.
+     - Arrival_date: Date of arrival (broken down into year, month, week number, and day of month).   
+     - Stays_in_weekend_nights: Number of weekend nights booked.
+     - Stays_in_week_nights: Number of weeknights booked.
 Adults: Number of adults in the booking.
 Children: Number of children in the booking.
 Babies: Number of babies in the booking.
